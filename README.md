@@ -184,14 +184,6 @@ Open the notebooks in order, from `step1_simple_RAG.ipynb` to `step6_ambiguous_R
 - **Query rewriting:** reformulating the question so retrieval and search return better results.
 - **Conditional routing:** LangGraph edges that choose the next node based on state, here the evaluator's verdict.
 
-## Roadmap
-
-- [ ] Finish and clean up all six notebooks
-- [ ] Combine the final graph into a single runnable Python script
-- [ ] Add a `requirements.txt`
-- [ ] Add evaluation of CRAG vs. baseline RAG on sample questions
-- [ ] Simple Streamlit UI for asking questions
-
 ## References
 
 - Yan et al., [*Corrective Retrieval Augmented Generation*](https://arxiv.org/abs/2401.15884) (CRAG paper)
