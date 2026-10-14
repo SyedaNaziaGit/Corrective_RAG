@@ -10,23 +10,6 @@ This repo walks through that idea in six small notebooks, each adding one capabi
 
 ---
 
-## Table of Contents
-
-- [Why Corrective RAG?](#why-corrective-rag)
-- [How It Works](#how-it-works)
-- [Learning Path](#learning-path)
-- [Project Structure](#project-structure)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Running the Notebooks](#running-the-notebooks)
-- [Key Concepts](#key-concepts)
-- [Roadmap](#roadmap)
-- [References](#references)
-- [Author](#author)
-
----
-
 ## Why Corrective RAG?
 
 Basic RAG has a blind spot: **it trusts whatever the retriever returns.** That causes problems when:
@@ -188,8 +171,6 @@ Open the notebooks in order, from `step1_simple_RAG.ipynb` to `step6_ambiguous_R
 
 - Yan et al., [*Corrective Retrieval Augmented Generation*](https://arxiv.org/abs/2401.15884) (CRAG paper)
 - [LangGraph documentation](https://langchain-ai.github.io/langgraph/)
-
-
 
 ---
 
