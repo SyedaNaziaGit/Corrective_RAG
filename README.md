@@ -1,6 +1,3 @@
-# Corrective_RAG 
-Basic Understanding by implementing the corrective RAG using langgraph
-
 # Corrective RAG with LangGraph 
 
 **A step-by-step implementation of Corrective RAG (CRAG) using LangGraph, built up from a simple RAG pipeline to a self-correcting one.**
