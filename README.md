@@ -34,6 +34,8 @@ Corrective RAG addresses these by grading retrieval quality and choosing a diffe
 
 This repo walks through that idea in six small notebooks, each adding one capability on top of the last.
 
+<img width="1216" height="872" alt="image_bf4e4130" src="https://github.com/user-attachments/assets/3d32229c-a0f9-44b1-9e4d-5f768d74260b" />
+
 
 ---
 
